@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+h1 {
+  text-align: center;
+}
+
+#output {
+  text-align: center;
+  font-weight: bold;
+  font-size: 3em;
+}
